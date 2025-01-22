@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Apr  5 19:54:24 2024
+[*]
+[dumpfile] "bcdadd1.fst"
+[dumpfile_mtime] "Fri Apr  5 19:52:59 2024"
+[dumpfile_size] 894
+[savefile] "gtkw/bcdadd1.gtkw"
+[timestart] 1
+[size] 1710 600
+[pos] -1 -1
+*-3.916249 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@22
+bcdadd1.a[3:0]
+bcdadd1.b[3:0]
+@28
+bcdadd1.cin
+bcdadd1.cout
+@22
+bcdadd1.s[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

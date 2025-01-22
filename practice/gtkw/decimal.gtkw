@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Apr  5 19:53:58 2024
+[*]
+[dumpfile] "decimal.fst"
+[dumpfile_mtime] "Fri Apr  5 19:52:50 2024"
+[dumpfile_size] 595
+[savefile] "gtkw/decimal.gtkw"
+[timestart] 1
+[size] 1033 600
+[pos] -1 -1
+*-4.542318 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+decimal.clk
+@29
+decimal.rst
+@28
+decimal.en
+@22
+decimal.Q[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

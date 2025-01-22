@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Apr  5 19:53:35 2024
+[*]
+[dumpfile] "tff.fst"
+[dumpfile_mtime] "Fri Apr  5 19:52:26 2024"
+[dumpfile_size] 549
+[savefile] "gtkw/tff.gtkw"
+[timestart] 1
+[size] 1000 600
+[pos] -1 -1
+*-3.064711 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+tff.clk
+tff.rst
+tff.T
+tff.Q
+[pattern_trace] 1
+[pattern_trace] 0
