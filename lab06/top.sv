@@ -20,7 +20,7 @@ module top (
   logic [3:0] temp;
   logic en;
 
-	prienc16to4 u1(.in(pb[15:0]), .out(temp), .strobe(en));
+  prienc16to4 u1(.in(pb[15:0]), .out(temp), .strobe(en));
   ssdec dc(.in(temp),.enable(en),.out(ss0[6:0]));
   
 endmodule
